@@ -1,0 +1,19 @@
+{
+  "name": "resistor",
+  "version": "0.0.1",
+  "description": "A lightweight workflow orchestrator DYI guide",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReMatter/Resistor.git"
+  },
+  "author": "ReMatter",
+  "license": "LICENSE",
+  "bugs": {
+    "url": "https://github.com/ReMatter/Resistor/issues"
+  },
+  "homepage": "https://github.com/ReMatter/Resistor#readme"
+}
